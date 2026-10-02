@@ -1,6 +1,6 @@
 # Polias releases
 
-Installers and update manifests for Polias, the desktop workspace for running and coordinating AI coding agents. Polias was previously called Athena.
+Installers and update manifests for Polias, the desktop workspace for running and coordinating AI coding agents.
 
 Download the latest version from [Releases](https://github.com/MTMN-Digital/polias-releases/releases/latest).
 
